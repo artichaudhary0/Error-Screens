@@ -28,10 +28,6 @@ Here are some amazing error screens which you must use in your application.
 <img src="https://github.com/artichaudhary0/Error-Screens/assets/71622834/3c8e0d27-4a15-496f-91aa-e708cd4eac3a" width="200"/> 
 <img src="https://github.com/artichaudhary0/Error-Screens/assets/71622834/962bea4e-ce41-43b7-bf23-23095fac89ec" width="200"/>  
 
-
-### Demo
-https://github.com/artichaudhary0/todo/assets/71622834/f646a5bc-6fcf-4eb3-ae3b-49f207bc7d3f
-
 ## Contribution
 We welcome all contributions. Here's how you can help:
 
